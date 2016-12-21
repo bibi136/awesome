@@ -1,2 +1,0 @@
-new feature 2
-you must use feature1 to use this
